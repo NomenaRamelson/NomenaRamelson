@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:06B6D4&height=220&section=header&text=Nomena%20Ramelson&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Computer%20Science&descAlignY=55&descSize=18" width="100%" alt="Nomena Ramelson Banner"/>
 
   <!-- ==================== PHOTO ==================== -->
-  <img src="photo.jpg" alt="Nomena Ramelson" width="220"/>
+  <img src="CV_photo.png" alt="Nomena Ramelson" width="220"/>
   <br/><br/>
 
   <a href="https://github.com/NomenaRamelson">
